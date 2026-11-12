@@ -5,7 +5,7 @@
 
 | Resource | Description | Link |
 |---|---|---|
-| AquaCorpus-659M-tokens | Aquaculture-domain text corpus for continual pre-training | [Hugging Face]([AquaCorpus](https://huggingface.co/datasets/Chal1ce/AquaCorpus-659M-Tokens)) |
+| AquaCorpus-659M-tokens | Aquaculture-domain text corpus for continual pre-training | [Hugging Face](https://huggingface.co/datasets/Chal1ce/AquaCorpus-659M-Tokens) |
 | AquaPPL-Test | Domain-text perplexity evaluation set | [Hugging Face](AQUAPPL_LINK) |
 | AquaBench-Closed | Closed-book aquaculture question answering benchmark | [Hugging Face](CLOSED_BOOK_LINK) |
 | AquaBench-Grounded | Evidence-grounded aquaculture question answering benchmark | [Hugging Face](GROUNDED_LINK) |
