@@ -12,7 +12,7 @@
 
 ## Models
 
-| Qwen3-AquaCPT | [Hugging Face](MODEL_0_6B_LINK) |
+| Qwen3-AquaCPT | [Hugging Face](https://huggingface.co/collections/Chal1ce/aquaculture-cpt-qwen3) |
 
 
 ## Availability
